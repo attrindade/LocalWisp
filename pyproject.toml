@@ -2,13 +2,14 @@
 name = "LocalWisp"
 version = "1.0.0"
 authors = [
-    {name = "André Trevisol Trindade"}
+    {name = "André Trevisol Trindade"},
+    {name = "LocalWisp Contributors"}
 ]
-description = "CPU-optimized offline voice dictation assistant for Windows (Ref: Ryzen 5700G)"
+description = "Collaborative, CPU-optimized offline voice dictation utility for Windows (Ref: Ryzen 5700G)"
 readme = "README.md"
 requires-python = ">=3.11"
 license = {text = "MIT"}
-keywords = ["whisper", "offline", "dication", "cpu-optimized", "windows"]
+keywords = ["whisper", "offline", "dictation", "cpu-optimized", "windows"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
